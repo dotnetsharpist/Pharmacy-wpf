@@ -1,0 +1,219 @@
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.csproj.AssemblyReference.cache
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\App.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pharmcy_MarkupCompile.cache
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pharmcy_MarkupCompile.lref
+D:\Pharmcy\Pharmcy\Pharmcy\bin\Debug\net7.0-windows\Pharmcy.exe
+D:\Pharmcy\Pharmcy\Pharmcy\bin\Debug\net7.0-windows\Pharmcy.deps.json
+D:\Pharmcy\Pharmcy\Pharmcy\bin\Debug\net7.0-windows\Pharmcy.runtimeconfig.json
+D:\Pharmcy\Pharmcy\Pharmcy\bin\Debug\net7.0-windows\Pharmcy.dll
+D:\Pharmcy\Pharmcy\Pharmcy\bin\Debug\net7.0-windows\Pharmcy.pdb
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Assets\Icons\Icons.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Styles\ButtonStyle.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Themes\DarkTheme.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Themes\LigthTheme.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pages\CustomerPage.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pages\MedicinePage.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pages\PharmacistPage.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pages\ReportPage.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pages\SalePage.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\App.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pages\CustomerPage.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pages\MedicinePage.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pages\PharmacistPage.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pages\ReportPage.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pages\SalePage.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.g.resources
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.AssemblyInfoInputs.cache
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.AssemblyInfo.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.csproj.CoreCompileInputs.cache
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.dll
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\refint\Pharmcy.dll
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.pdb
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.genruntimeconfig.cache
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\ref\Pharmcy.dll
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pages\PurchasingPage.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pages\PurchasingPage.baml
+D:\Pharmcy\Pharmcy\Pharmcy\bin\Debug\net7.0-windows\BCrypt.Net-Next.dll
+D:\Pharmcy\Pharmcy\Pharmcy\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Pharmcy\Pharmcy\Pharmcy\bin\Debug\net7.0-windows\Npgsql.dll
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.csproj.CopyComplete
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Windows\Sigin\Loginwindow.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Windows\Sigin\Loginwindow.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Windows\RegisterWindow\RegisterWindow.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Windows\RegisterWindow\RegisterWindow.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Components\Medicines\MedicineViewUserControl.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Components\Medicines\MedicineViewUserControl.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Styles\DateTimePickerStyles.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Windows\Medicines\CreateMedicine.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Windows\Medicines\MedicineUpdateWindow.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Windows\Medicines\CreateMedicine.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Windows\Medicines\MedicineUpdateWindow.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pages\InformationPage.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pages\InformationPage.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Windows\Customers\CreateCustomer.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Windows\Customers\CreateCustomer.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pages\AboutInformationPage.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pages\AboutInformationPage.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Components\Customers\CustomerViewUserControl.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Components\Customers\CustomerViewUserControl.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Components\Medicines\MedicineViewUserControl1.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Components\Medicines\MedicineViewUserControl1.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Windows\Pharmacists\CreatePharmacist.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Windows\Pharmacists\CreatePharmacist.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Components\Pharmacists\PharmacistViewUserControl.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Components\Pharmacists\PharmacistViewUserControl.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Windows\Pharmacists\UpdatePharmacist.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Windows\Pharmacists\UpdatePharmacist.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Windows\DataWindow.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Windows\DataWindow.baml
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pages\Security\PharmacistSecurityPage.g.cs
+D:\Pharmcy\Pharmcy\Pharmcy\obj\Debug\net7.0-windows\Pages\Security\PharmacistSecurityPage.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\bin\Debug\net7.0-windows\Pharmcy.exe
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\bin\Debug\net7.0-windows\Pharmcy.deps.json
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\bin\Debug\net7.0-windows\Pharmcy.runtimeconfig.json
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\bin\Debug\net7.0-windows\Pharmcy.dll
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\bin\Debug\net7.0-windows\Pharmcy.pdb
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\bin\Debug\net7.0-windows\BCrypt.Net-Next.dll
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.csproj.AssemblyReference.cache
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Assets\Icons\Icons.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Styles\ButtonStyle.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Styles\DateTimePickerStyles.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Themes\DarkTheme.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Themes\LigthTheme.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Components\Customers\CustomerViewUserControl.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Components\Medicines\MedicineViewUserControl.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Components\Medicines\MedicineViewUserControl1.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Components\Pharmacists\PharmacistViewUserControl.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pages\AboutInformationPage.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pages\CustomerPage.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pages\InformationPage.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pages\MedicinePage.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pages\PharmacistPage.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pages\PurchasingPage.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pages\ReportPage.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pages\SalePage.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pages\Security\PharmacistSecurityPage.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Windows\Customers\CreateCustomer.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Windows\DataWindow.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Windows\Medicines\CreateMedicine.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Windows\Medicines\MedicineUpdateWindow.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Windows\Pharmacists\CreatePharmacist.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Windows\Pharmacists\UpdatePharmacist.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Windows\RegisterWindow\RegisterWindow.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Windows\Sigin\Loginwindow.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pharmcy_MarkupCompile.cache
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pharmcy_MarkupCompile.lref
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\App.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Components\Customers\CustomerViewUserControl.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Components\Medicines\MedicineViewUserControl.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Components\Medicines\MedicineViewUserControl1.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Components\Pharmacists\PharmacistViewUserControl.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pages\AboutInformationPage.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pages\CustomerPage.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pages\InformationPage.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pages\MedicinePage.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pages\PharmacistPage.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pages\PurchasingPage.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pages\ReportPage.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pages\SalePage.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pages\Security\PharmacistSecurityPage.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Windows\Customers\CreateCustomer.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Windows\DataWindow.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Windows\Medicines\CreateMedicine.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Windows\Medicines\MedicineUpdateWindow.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Windows\Pharmacists\CreatePharmacist.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Windows\Pharmacists\UpdatePharmacist.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Windows\RegisterWindow\RegisterWindow.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Windows\Sigin\Loginwindow.baml
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.g.resources
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.AssemblyInfoInputs.cache
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.AssemblyInfo.cs
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.csproj.CoreCompileInputs.cache
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.csproj.CopyComplete
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.dll
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\refint\Pharmcy.dll
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.pdb
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.genruntimeconfig.cache
+C:\Users\sheyx\OneDrive\Рабочий стол\Pharmcy\obj\Debug\net7.0-windows\ref\Pharmcy.dll
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\bin\Debug\net7.0-windows\Pharmcy.exe
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\bin\Debug\net7.0-windows\Pharmcy.deps.json
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\bin\Debug\net7.0-windows\Pharmcy.runtimeconfig.json
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\bin\Debug\net7.0-windows\Pharmcy.dll
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\bin\Debug\net7.0-windows\Pharmcy.pdb
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\bin\Debug\net7.0-windows\BCrypt.Net-Next.dll
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.csproj.AssemblyReference.cache
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Assets\Icons\Icons.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Styles\ButtonStyle.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Styles\DateTimePickerStyles.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Themes\DarkTheme.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Themes\LigthTheme.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Components\Customers\CustomerViewUserControl.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Components\Medicines\MedicineViewUserControl.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Components\Medicines\MedicineViewUserControl1.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Components\Pharmacists\PharmacistViewUserControl.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pages\AboutInformationPage.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pages\CustomerPage.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pages\InformationPage.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pages\MedicinePage.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pages\PharmacistPage.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pages\PurchasingPage.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pages\ReportPage.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pages\SalePage.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pages\Security\PharmacistSecurityPage.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Windows\Customers\CreateCustomer.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Windows\DataWindow.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Windows\Medicines\CreateMedicine.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Windows\Medicines\MedicineUpdateWindow.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Windows\Pharmacists\CreatePharmacist.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Windows\Pharmacists\UpdatePharmacist.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Windows\RegisterWindow\RegisterWindow.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Windows\Sigin\Loginwindow.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\App.g.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pharmcy_MarkupCompile.cache
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pharmcy_MarkupCompile.lref
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\App.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Components\Customers\CustomerViewUserControl.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Components\Medicines\MedicineViewUserControl.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Components\Medicines\MedicineViewUserControl1.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Components\Pharmacists\PharmacistViewUserControl.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pages\AboutInformationPage.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pages\CustomerPage.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pages\InformationPage.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pages\MedicinePage.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pages\PharmacistPage.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pages\PurchasingPage.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pages\ReportPage.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pages\SalePage.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pages\Security\PharmacistSecurityPage.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Windows\Customers\CreateCustomer.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Windows\DataWindow.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Windows\Medicines\CreateMedicine.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Windows\Medicines\MedicineUpdateWindow.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Windows\Pharmacists\CreatePharmacist.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Windows\Pharmacists\UpdatePharmacist.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Windows\RegisterWindow\RegisterWindow.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Windows\Sigin\Loginwindow.baml
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.g.resources
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.AssemblyInfoInputs.cache
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.AssemblyInfo.cs
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.csproj.CoreCompileInputs.cache
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.csproj.CopyComplete
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.dll
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\refint\Pharmcy.dll
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.pdb
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\Pharmcy.genruntimeconfig.cache
+C:\Projects\WPF\Pharmacy-WPF\Pharmcy\obj\Debug\net7.0-windows\ref\Pharmcy.dll

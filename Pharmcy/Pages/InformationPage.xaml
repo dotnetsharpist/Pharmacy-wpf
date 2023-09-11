@@ -1,0 +1,18 @@
+﻿<Page x:Class="Pharmcy.Pages.AboutInfomration"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Pharmcy.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="InformationPage"
+      >
+    <Border Background="#176B87" Margin="10" Opacity="0.5" CornerRadius="10">
+        <Grid>
+            <Label Content="Dastur haqida" Foreground="White" FontSize="16"  FontFamily="JetBrains Mono" HorizontalAlignment="Center" />
+            <Label Content="Bu dastur nomi 'Pharmacy Management System' deb nomlandi." Foreground="White" Margin="32,53,10,21" FontFamily="JetBrains Mono" FontSize="16" FontWeight="SemiBold"/>
+            <Label Content="Bu dasturda siz Pharmacy ni toliq nazorat qila olasiz." Margin="32,90,0,21" Foreground="White" FontFamily="JetBrains Mono" FontSize="16" FontWeight="SemiBold"/>
+        </Grid>
+    </Border>
+</Page>

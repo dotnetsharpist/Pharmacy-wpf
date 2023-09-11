@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Components\Customers\CustomerViewUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Components\Medicines\MedicineViewUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Components\Medicines\MedicineViewUserControl1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Components\Pharmacists\PharmacistViewUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\AboutInformationPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\CustomerPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\InformationPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\MedicinePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\PharmacistPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\PurchasingPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\ReportPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\SalePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Security\PharmacistSecurityPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Customers\CreateCustomer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\DataWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Medicines\CreateMedicine.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Medicines\MedicineUpdateWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Pharmacists\CreatePharmacist.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Pharmacists\UpdatePharmacist.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Sigin\Loginwindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Assets\Icons\Icons.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Components\Customers\CustomerViewUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Components\Medicines\MedicineViewUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Components\Medicines\MedicineViewUserControl1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Components\Pharmacists\PharmacistViewUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\AboutInformationPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\CustomerPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\InformationPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\MedicinePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\PharmacistPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\PurchasingPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\ReportPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\SalePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Security\PharmacistSecurityPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\ButtonStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\DateTimePickerStyles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\DarkTheme.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\LigthTheme.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Customers\CreateCustomer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\DataWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Medicines\CreateMedicine.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Medicines\MedicineUpdateWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Pharmacists\CreatePharmacist.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Pharmacists\UpdatePharmacist.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Sigin\Loginwindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

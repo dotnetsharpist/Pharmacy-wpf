@@ -1,0 +1,59 @@
+﻿<Page x:Class="Pharmcy.Pages.PurchasingPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Pharmcy.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Loaded="Page_Loaded"
+      Background="#64CCC5"
+      Title="Medicine">
+    <Border Margin="10" CornerRadius="10" Background="#001C30">
+        <Grid Margin="0 5 0 5">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0"
+                        HorizontalAlignment="Right"
+                        Orientation="Horizontal">
+                <Border CornerRadius="10" 
+                        Background="{DynamicResource PrimaryBackground}"
+                        Width="400">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="43"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Path Grid.Column="0" 
+                              Margin="3 0 0 0"
+                              Width="20" Height="20" Stretch="Fill"
+                              Fill="#176B87"
+                              Data="{DynamicResource search}"/>
+                        <TextBox x:Name="tbSearch"
+                                 Grid.Column="1"
+                                 VerticalAlignment="Center"
+                                 FontSize="16"
+                                 Margin="5 0 5 0"
+                                 FontFamily="Jetbrains Mono"
+                                 BorderThickness="0"
+                                 Foreground="Black"
+                                 Background="{DynamicResource PrimaryBackground}" TextChanged="tbSearch_TextChanged"/>
+                        
+                        
+                    </Grid>
+                </Border>
+                <Button Grid.Row="1" Width="120" Margin="10,0,10,6" Style="{DynamicResource SuccessButton}"
+                        x:Name="buy" Content="Buy" Click="buy_Click"/>
+            </StackPanel>
+            <ScrollViewer Margin="5 5 0 5"
+                          Grid.Row="1">
+                <WrapPanel x:Name="wrpPurchasing" >
+                    
+                </WrapPanel>
+                
+            </ScrollViewer>
+        </Grid>
+    </Border>
+</Page>

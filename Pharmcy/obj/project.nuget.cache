@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dos6XX/Nd/j357VZAyBwG668oZEsu+9LjA5on0l1ru6oVNpePMrSAO6IlF1BlM8U6IZH8zXr7hXIUUpcj7cb6w==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\WPF\\Pharmacy-WPF\\Pharmcy\\Pharmcy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sheyx\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\sheyx\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sheyx\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

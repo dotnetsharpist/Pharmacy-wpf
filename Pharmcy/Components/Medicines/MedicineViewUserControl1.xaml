@@ -1,0 +1,80 @@
+﻿<UserControl x:Class="Pharmcy.Components.Medicines.MedicineViewUserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Pharmcy.Components.Medicines"
+             mc:Ignorable="d"
+             Height="300" 
+             Width="200"
+             Margin="10 5">
+    <Border Grid.RowSpan="4" CornerRadius="20" x:Name="grMain"
+            Background="{DynamicResource PrimaryBackground}">
+        <StackPanel Margin="10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="119*"/>
+                    <ColumnDefinition Width="61*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" Grid.ColumnSpan="2" Margin="0,10,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="20"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="35"/>
+                    </Grid.ColumnDefinitions>
+                    <Border Grid.Column="1"  Height="125"
+                    Width="89"
+                    Margin="0,10,0,10"
+                    CornerRadius="10" HorizontalAlignment="Center">
+                        <Border.Background>
+                            <ImageBrush x:Name="ImgB"
+                                Stretch="UniformToFill"/>
+                        </Border.Background>
+                    </Border>
+
+                    <Button Grid.Column="1" Height="32" Click="Button_Click"  Background="Transparent" BorderBrush="Transparent" Width="38" Style="{DynamicResource PlusButton}" 
+                            VerticalAlignment="Top" 
+                            Margin="124,2,0,0" 
+                            Grid.ColumnSpan="2"
+                            HorizontalAlignment="Left"/>
+                    
+
+                </Grid>
+
+
+                <Label Grid.Row="1" x:Name="lbName"
+                   FontSize="16"
+                   FontFamily="JetBrains Mono"
+                   FontWeight="SemiBold"
+                   Content="salom"
+                   Foreground="Black"
+                   HorizontalAlignment="Left" Margin="61,0,0,0"/>
+                <Label Grid.Row="1" x:Name="lbPrice"
+                   FontSize="16"
+                   FontFamily="JetBrains Mono"
+                   FontWeight="SemiBold"
+                   Content="salom12"
+                   Foreground="Black"
+                   HorizontalAlignment="Left" Grid.ColumnSpan="2" Margin="51,31,0,0" Grid.RowSpan="2"/>
+                <TextBox Grid.Row="2" x:Name="tbDescription"
+                       FontSize="16"
+                       IsReadOnly="True"
+                       TextWrapping="Wrap"
+                       BorderThickness="0.1"
+                       FontFamily="JetBrains Mono"
+                       FontWeight="SemiBold"
+                       Text="Salom dunyo bu dastur eng zor dastur" Grid.ColumnSpan="2" Margin="0,31,0,21" Grid.RowSpan="2"
+                       />
+            </Grid>
+        </StackPanel>
+    </Border>
+
+
+
+</UserControl>

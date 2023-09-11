@@ -1,0 +1,124 @@
+﻿<Window x:Class="Pharmcy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pharmcy"
+        mc:Ignorable="d"
+        Title="MainWindow" 
+        Height="650"
+        Width="1000"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Background="Transparent"
+        AllowsTransparency="True"
+        >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" Background="Black"
+                CornerRadius="10 10 0 0"
+                BorderBrush="#64CCC5"
+                BorderThickness="0 0 0 3">
+            <Grid Margin="10 0 10 0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="100"/>
+                </Grid.ColumnDefinitions>
+                <Border x:Name="brDragable" 
+                        MouseDown="brDragable_MouseDown" 
+                        Grid.Column="0"
+                    Background="Black"
+                        Cursor="ScrollAll">
+
+                </Border>
+                <StackPanel Grid.Column="1" Orientation="Horizontal">
+                    <Button x:Name="BtnMinimaze" Click="BtnMinimaze_Click" Style="{DynamicResource MinimizeButton}"/>
+                    <Button x:Name="BtnMaximaze" Click="BtnMaxmize_Click" Style="{DynamicResource MaximazedButton}"/>
+                    <Button x:Name="BtnClose" Click="BtnClose_Click" Style="{DynamicResource CloseButton}"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="250"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Border Grid.Column="0"
+                Background="#001C30"
+                    CornerRadius="0 0 0 10">
+                <StackPanel Margin="0 20 0 0">
+                    <RadioButton
+                        x:Name="rbCustomer"
+                        Style="{DynamicResource MenuButton}"
+                        Content="Customer"
+                        FontSize="18" 
+                        Click="rbCustomer_Click"
+                        Tag="{DynamicResource Customer}" Checked="rbCustomer_Checked"
+                         />
+                    <RadioButton x:Name="rbMedicine"
+                                 Style="{DynamicResource MenuButton}"
+                                 Content="Medicine"
+                                 FontSize="18"
+                                 Click="rbMedicine_Click"
+                                 Tag="{DynamicResource Medicine}" Checked="rbMedicine_Checked"
+                                  />
+                    <RadioButton 
+                        x:Name="rbPharmacist"
+                        Style="{DynamicResource MenuButton}"
+                        Content="Pharmacist"
+                        FontSize="18"
+                        Click="rbPharmacist_Click"
+                        Tag="{DynamicResource Pharmacist}" Checked="rbPharmacist_Checked" 
+                        />
+                    <RadioButton
+                        x:Name="rbPurchasing"
+                        Style="{DynamicResource MenuButton}"
+                        Content="Purchasing"
+                        FontSize="18"
+                        Click="rbPurchasing_Click"
+                        Tag="{DynamicResource Purchasing}" 
+                        />
+                    <RadioButton
+                        x:Name="rbReport"
+                        Style="{DynamicResource MenuButton}"
+                        Content="Report"
+                        FontSize="18"
+                        Click="rbReport_Click"
+                        Tag="{DynamicResource Report}"
+                       />
+                    <RadioButton 
+                        x:Name="rbInformation"
+                        Style="{DynamicResource MenuButton}"
+                        Content="Infomration"
+                        FontSize="18"
+                        Click="rbInformation_Click"
+                        Tag="{DynamicResource informations}" Checked="rbInformation_Checked"
+                        />
+                    <RadioButton
+                        x:Name="rbAbout"
+                        Style="{DynamicResource MenuButton}"
+                        Content="About"
+                        FontSize="18"
+                        Click="rbAbout_Click"
+                        Tag="{DynamicResource about}" Checked="rbAbout_Checked"
+                        
+                        />
+                </StackPanel>
+            </Border>
+            <Border Grid.Column="1"
+                Background="#176B87"
+                    CornerRadius="0 0 10 0">
+                <Frame x:Name="PageNavigator"
+                       NavigationUIVisibility="Hidden" Navigated="PageNavigator_Navigated" >
+                    <Frame.Background>
+                        <ImageBrush ImageSource="Assets/Images/rasm.png"/>
+                    </Frame.Background>
+                </Frame>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

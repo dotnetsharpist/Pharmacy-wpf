@@ -1,0 +1,123 @@
+﻿<Window x:Class="Pharmcy.Windows.Pharmacists.PharmacistUpdateWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pharmcy.Windows.Pharmacists"
+        mc:Ignorable="d"
+        Title="UpdatePharmacist" 
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        Height="620" Width="700">
+    <Window.Resources>
+        <Style x:Key="TitleLabel" TargetType="{x:Type Label}">
+            <Setter Property="Foreground" Value="#64CCC5"/>
+            <Setter Property="FontFamily" Value="Jetbrains Mono"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Margin" Value="0 5"/>
+        </Style>
+    </Window.Resources>
+    <Grid Background="#001C30" Margin="0,0,0,-16">
+        <StackPanel Orientation="Vertical"
+                    Margin="20,20,20,164">
+            <Label Content="FirstName" Style="{DynamicResource TitleLabel}"/>
+            <Border CornerRadius="10" 
+                    Background="{DynamicResource SecondaryBackground}"
+                    Height="25">
+                <TextBox x:Name="tbFirstName"
+                         MaxLength="50"
+                         Grid.Column="1"
+                         VerticalAlignment="Center"
+                         FontSize="16"
+                         Margin="10 0 10 0"
+                         FontFamily="Jetbrains Mono"
+                         BorderThickness="0"
+                         Foreground="White"
+                         Background="{DynamicResource SecondaryBackground}"/>
+            </Border>
+            <Grid Height="250">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="0" >
+                    <Label Content="Image" Style="{DynamicResource TitleLabel}"/>
+                    <StackPanel Orientation="Horizontal">
+                        <Border Background="{DynamicResource SecondaryBackground}">
+                            <Border x:Name="ImgCourseImage"
+                                Height="150" Width="150"
+                                CornerRadius="10">
+                                <Border.Background>
+                                    <ImageBrush x:Name="ImgBImage" />
+                                </Border.Background>
+                            </Border>
+                        </Border>
+                        <Button x:Name="btnImageSelector" 
+                                VerticalAlignment="Bottom"
+                                Content="..."
+                                FontSize="20"
+                                Click="btnImageSelector_Click"
+                                Height="30" Width="30"
+                                Margin="10 0 0 0"/>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Grid.Column="1">
+                    <Label Content="LastName" Foreground="#64C29C"
+                           Style="{DynamicResource TitleLabel}"/>
+                    <Border CornerRadius="20" 
+                            
+                    Background="{DynamicResource SecondaryBackground}"
+                    Height="25">
+                        <TextBox x:Name="tbLastName"
+                             Foreground="White"
+                             Background="#A9A9A9"
+                             FontSize="18"
+                             FontFamily="JetBrains Mono"
+                             FontWeight="SemiBold" Height="25" VerticalAlignment="Center"/>
+
+                    </Border>
+
+
+                    <Label Content="Email" x:Name="lbPrice" Foreground="#64C29C"
+                           Style="{DynamicResource TitleLabel}"
+                           />
+                    <TextBox Foreground="White"
+                             Background="#A9A9A9"
+                             x:Name="tbPrice"
+                             FontSize="18"
+                             FontFamily="JetBrains Mono"
+                             FontWeight="SemiBold" 
+                             />
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Column="0"
+                            Content="Birht date" Foreground="#64C29C"
+                               HorizontalAlignment="Center"
+                               Style="{DynamicResource TitleLabel}"/>
+                        <DatePicker Margin="0,41,21,-16" 
+                                    x:Name="dpBirthDate"/>
+
+                        <Label Grid.Column="1"
+                               Content="Gender"
+                               Foreground="#64C29C"
+                               HorizontalAlignment="Center"
+                               Style="{DynamicResource TitleLabel}"/>
+                        <ComboBox IsEditable="False" Background="#A9A9A9" x:Name="cmbGender" Grid.Column="1" Margin="10,41,10,-16" >
+                            <ComboBoxItem>Male</ComboBoxItem>
+                            <ComboBoxItem>Female</ComboBoxItem>
+                        </ComboBox>
+                    </Grid>
+                </StackPanel>
+            </Grid>
+            <Button x:Name="btnSave" 
+                    Click="btnSave_Click" 
+                    Margin="0 20 0 10" 
+                    Height="50" 
+                    Style="{DynamicResource SuccessButton}" Content="Save"/>
+        </StackPanel>
+    </Grid>
+</Window>

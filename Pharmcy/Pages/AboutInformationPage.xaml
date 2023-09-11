@@ -1,0 +1,24 @@
+﻿<Page x:Class="Pharmcy.Pages.AboutInformationPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Pharmcy.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AboutInformationPage">
+    <Border Background="#176B87" Margin="10" Opacity="0.5" CornerRadius="10">
+        <Grid>
+            <Label Content="Pharmacists play an important role in helping people get the best results from their medications." FontSize="16" Foreground="White"/>
+            <Label Content="Pharmacists are medication experts who enhance patient care and promote wellness." Margin="0,26,0,-26" FontSize="16" Foreground="White"/>
+            <Label Content=" You will use your professional knowledge as a pharmacist to prepare and dispense prescriptions," Margin="-4,54,0,0" FontSize="16" Foreground="White" />
+            <Label Content=" ensure medicines and doses are correct, prevent harmful drug interactions,and counsel patients on the safe" FontSize="16" Margin="-4,80,4,10" Foreground="White" />
+            <Label Content="and appropriate use of their medications. As a pharmacist, you will have unique and specialized expertise " FontSize="16" Margin="0,105,0,-114" Foreground="White"/>
+            <Label Content="the composition of medicines, including their chemical, biological, and physical properties,as well as their " FontSize="16" Margin="0,131,0,-131" Foreground="White"/>
+            <Label Content="manufacture and use." FontSize="16" Foreground="White" Margin="-0,150,4,-166"/>
+
+        </Grid>
+
+
+    </Border>
+</Page>

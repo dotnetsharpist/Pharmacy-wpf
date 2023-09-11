@@ -1,0 +1,59 @@
+﻿<Window x:Class="Pharmcy.Windows.DataWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pharmcy.Windows"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        ResizeMode="NoResize"
+        Title="DataWindow" Height="467" Width="800">
+    <Grid Margin="0,0,0,39">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Background="Transparent">
+
+
+            <ScrollViewer Margin="5 5 0 5"
+                          Grid.Row="1" Height="300" >
+                <DataGrid x:Name="MyDataGrid" IsReadOnly="True"
+                      Background="#001C30">
+                    <DataGrid.Resources>
+                        <Style TargetType="{x:Type DataGridColumnHeader}">
+                            <Setter Property="Background" Value="{DynamicResource SecondaryBackground}"/>
+                            <Setter Property="FontSize" Value="18"/>
+                            <Setter Property="FontFamily" Value="JetBrains Mono"/>
+                            <Setter Property="FontWeight" Value="SemiBold"/>
+                            <Setter Property="BorderThickness" Value="2"/>
+                        </Style>
+                    </DataGrid.Resources>
+
+                    <DataGrid.Columns>
+                        <!--<DataGridTextColumn Header="MedicineName" Binding="{Binding MedCategory}" Width="*"  FontSize="16" FontFamily="JetBrains Mono" FontWeight="SemiBold" />-->
+                        <!--<DataGridTextColumn Header="MedicinePrice" Binding="{Binding Name}" Width="*" FontSize="16" FontFamily="JetBrains Mono" FontWeight="SemiBold"/>-->
+                    </DataGrid.Columns>
+                </DataGrid>
+
+
+
+
+
+            </ScrollViewer>
+
+
+
+
+            
+
+
+
+        </StackPanel>
+        <Grid Grid.Row="1" Background="Transparent">
+            <Button x:Name="btnSAVE" Content="PAY"  Width="200" Click="btnSAVE_Click" Margin="315,0,285,0" Style="{DynamicResource SuccessButton}"/>
+            <Label Content="Label" HorizontalAlignment="Left" Margin="655,10,0,0" VerticalAlignment="Top" FontSize="18" FontFamily="JetBrains Mono" FontWeight="SemiBold" x:Name="ozodbek"/>
+        </Grid>
+    </Grid>
+    
+</Window>
